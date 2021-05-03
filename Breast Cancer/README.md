@@ -1,4 +1,4 @@
-# Breast Cancer Pridection
+# Breast Cancer Prediction
 
 ## Machine Learning Algorithm Used and its results 
 
