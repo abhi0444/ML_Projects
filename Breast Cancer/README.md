@@ -3,6 +3,8 @@
 ## Machine Learning Algorithm Used and its results 
 
   1 . [Naive Bayes classifier] (https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+  [I'm an inline-style link](https://www.google.com)
+
   
       ###Results
       
