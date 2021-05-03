@@ -1,8 +1,8 @@
 # Breast Cancer Pridection
 
 ## Machine Learning Algorithm Used and its results 
-<br>
-  1 . [Naive Bayes classifier](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+
+  1 . [Naive Bayes classifier] (https://www.geeksforgeeks.org/naive-bayes-classifiers/)
   
       ###Results
       
