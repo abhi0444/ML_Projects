@@ -1,5 +1,7 @@
 # Breast Cancer Prediction
 
+In this project we have predicted weather the individual is suffering from breast cancer or not.
+
 ## Machine Learning Algorithm Used and its results 
 
   1. Naive Bayes classifier
